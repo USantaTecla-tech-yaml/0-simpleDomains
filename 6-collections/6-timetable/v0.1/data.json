@@ -1,0 +1,223 @@
+{
+  "course" : "Primaria",
+  "group" : "1ºB",
+  "date" : "marzo 2019",
+  "classes" : [
+    {
+      "name" : "Actividades Permanentes",
+      "hours" : [
+        {
+          "start" : "7:25",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "day" : "Lunes"
+        }
+      ]
+    },
+    {
+      "name" : "Comunicación",
+      "hours" : [
+        {
+          "start" : "7:35",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "8:10",
+          "day" : "Miércoles"
+        },
+        {
+          "start" : "7:25",
+          "day" : "Jueves"
+        },
+        {
+          "start" : "7:35",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Matemática",
+      "hours" : [
+        {
+          "start" : "9:20",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "7:35",
+          "day" : "Martes"
+        },
+        {
+          "start" : "8:45",
+          "day" : "Mieroles"
+        },
+        {
+          "start" : "7:35",
+          "day" : "Jueves"
+        }
+      ]
+    },
+    {
+      "name" : "Arte Y Cultura",
+      "hours" : [
+        {
+          "start" : "7:35",
+          "day" : "Mircoles"
+        },
+        {
+          "start" : "11:25",
+          "day" : "Jueves"
+        }
+      ]
+    },
+    {
+      "name" : "Razonamiento Verbal",
+      "hours" : [
+        {
+          "start" : "8:45",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "10:30",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Educación Fisica",
+      "houres" : [
+        {
+          "start" : "8:45",
+          "day" : "Martes"
+        }
+      ]
+    },
+    {
+      "name" : "Razonamiento Matemático",
+      "hours" : [
+        {
+          "start" : "8:45",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Recreo",
+      "hours" : [
+        {
+          "start" : "9:55",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "9:55",
+          "day" : "Martes"
+        },
+        {
+          "start" : "9:55",
+          "day" : "Miercoles"
+        },
+        {
+          "start" : "9:55",
+          "day" : "Jueves"
+        },
+        {
+          "start" : "9:55",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Inglés",
+      "hours" : [
+        {
+          "start" : "10:30",
+          "day" : "Martes"
+        }
+      ]
+    },
+    {
+      "name" : "Educación por el Trabajo",
+      "hours" : [
+        {
+          "start" : "10:30",
+          "day" : "Miercoles"
+        },
+        {
+          "start" : "10:50",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Ciencia Y Tecnología",
+      "hours" : [
+        {
+          "start" : "10:50",
+          "day" : "Miercoles"
+        },
+        {
+          "start" : "10:30",
+          "day" : "Jueves"
+        }
+      ]
+    },
+    {
+      "name" : "Personal Social",
+      "hours" : [
+        {
+          "start" : "10:50",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "11:25",
+          "day" : "Martes"
+        }
+      ]
+    },
+    {
+      "name" : "Plan Lector",
+      "hours" : [
+        {
+          "start" : "10:50",
+          "day" : "Jueves"
+        }
+      ]
+    },
+    {
+      "name" : "Tutoría",
+      "hours" : [
+        {
+          "start" : "11:15",
+          "day" : "Lunes"
+        }
+      ]
+    },
+    {
+      "name" : "Religión",
+      "hours" : [
+        {
+          "start" : "11:25",
+          "day" : "Viernes"
+        }
+      ]
+    }
+  ],
+  "end" : "12:00"
+}

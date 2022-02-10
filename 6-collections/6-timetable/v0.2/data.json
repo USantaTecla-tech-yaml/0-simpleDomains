@@ -1,0 +1,233 @@
+{
+  "course": "Primaria",
+  "group": "1ºB",
+  "date": "marzo 2019",
+  "hours": [
+    {
+      "start": "7:25",
+      "classes": [
+        {
+          "name": "Actividades Permanentes",
+          "day": "Lunes"
+        },
+        {
+          "name": "Actividades Permanentes",
+          "day": "Martes"
+        },
+        {
+          "name": "Actividades Permanentes",
+          "day": "Miércoles"
+        },
+        {
+          "name": "Actividades Permanentes",
+          "day": "Jueves"
+        },
+        {
+          "name": "Actividades Permanentes",
+          "day": "Viernes"
+        }
+      ]
+    },
+    {
+      "start": "7:35",
+      "classes": [
+        {
+          "name": "Comunicación",
+          "day": "Lunes"
+        },
+        {
+          "name": "Matemática",
+          "day": "Martes"
+        },
+        {
+          "name": "Arte y Cultura",
+          "day": "Miércoles"
+        },
+        {
+          "name": "Matemática",
+          "day": "Jueves"
+        },
+        {
+          "name": "Comunicación",
+          "day": "Viernes"
+        }
+      ]
+    },
+    {
+      "start": "8:10",
+      "classes": [
+        {
+          "name": "Comunicación",
+          "day": "Lunes"
+        },
+        {
+          "name": "Matemática",
+          "day": "Martes"
+        },
+        {
+          "name": "Comunicación",
+          "day": "Miércoles"
+        },
+        {
+          "name": "Matemática",
+          "day": "Jueves"
+        },
+        {
+          "name": "Comunicación",
+          "day": "Viernes"
+        },
+        {
+          "start": "8:45",
+          "classes": [
+            {
+              "name": "Razonamiento Verbal",
+              "day": "Lunes"
+            },
+            {
+              "name": "Educación Fisica",
+              "day": "Martes"
+            },
+            {
+              "name": "Matematica",
+              "day": "Miércoles"
+            },
+            {
+              "name": "Comunicación",
+              "day": "Jueves"
+            },
+            {
+              "name": "Razonamiento Matemático",
+              "day": "Viernes"
+            }
+          ]
+        },
+        {
+          "start": "9:20",
+          "classes": [
+            {
+              "name": "Matemática",
+              "day": "Lunes"
+            },
+            {
+              "name": "Educación Fisica",
+              "day": "Martes"
+            },
+            {
+              "name": "Matematica",
+              "day": "Miércoles"
+            },
+            {
+              "name": "Comunicación",
+              "day": "Jueves"
+            },
+            {
+              "name": "Razonamiento Matemático",
+              "day": "Viernes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": "9:55",
+      "classes": [
+        {
+          "name": "Recreo",
+          "day": "Lunes"
+        },
+        {
+          "name": "Recreo",
+          "day": "Martes"
+        },
+        {
+          "name": "Recreo",
+          "day": "Miércoles"
+        },
+        {
+          "name": "Recreo",
+          "day": "Jueves"
+        },
+        {
+          "name": "Recreo",
+          "day": "Viernes"
+        }
+      ]
+    },
+    {
+      "start": "10:30",
+      "classes": [
+        {
+          "name": "Matemática",
+          "day": "Lunes"
+        },
+        {
+          "name": "Inglés",
+          "day": "Martes"
+        },
+        {
+          "name": "Educación por el Trabajo",
+          "day": "Miércoles"
+        },
+        {
+          "name": "Ciencia Y Tecnología",
+          "day": "Jueves"
+        },
+        {
+          "name": "Razonamiento Verbal",
+          "day": "Viernes"
+        }
+      ]
+    },
+    {
+      "start": "10:50",
+      "classes": [
+        {
+          "name": "Personal Social",
+          "day": "Lunes"
+        },
+        {
+          "name": "Inglés",
+          "day": "Martes"
+        },
+        {
+          "name": "Ciencia Y Tecnología",
+          "day": "Miércoles"
+        },
+        {
+          "name": "Plan Lector",
+          "day": "Jueves"
+        },
+        {
+          "name": "Educación por el Trabajo",
+          "day": "Viernes"
+        }
+      ]
+    },
+    {
+      "start": "11:25",
+      "classes": [
+        {
+          "name": "Tutoría",
+          "day": "Lunes"
+        },
+        {
+          "name": "Personal Social",
+          "day": "Martes"
+        },
+        {
+          "name": "Ciencia Y Tecnología",
+          "day": "Miércoles"
+        },
+        {
+          "name": "Arte Y Cultura",
+          "day": "Jueves"
+        },
+        {
+          "name": "Religión",
+          "day": "Viernes"
+        }
+      ]
+    }
+  ],
+  "end": "12:00"
+}

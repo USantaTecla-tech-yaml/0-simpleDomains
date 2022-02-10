@@ -1,0 +1,76 @@
+{
+	"name": "yo",
+	"gender": "male",
+	"mother": {
+		"name": "madre",
+		"gender": "female",
+		"mother": {
+			"name": "abuela materna",
+			"gender": "female",
+			"mother": {
+				"name": "visabuela de abuela materna",
+				"gender": "female",
+				"mother": null,
+				"father": null
+			},
+			"father": {
+				"name": "visabuelo de abuela materna",
+				"gender": "male",
+				"mother": null,
+				"father": null
+			}
+		},
+		"father": {
+			"name": "abuelo materno",
+			"gender": "male",
+			"mother": {
+				"name": "visabuela de abuelo materno",
+				"gender": "female",
+				"mother": null,
+				"father": null
+			},
+			"father": {
+				"name": "visabuelo de abuelo materno",
+				"gender": "male",
+				"mother": null,
+				"father": null
+			}
+		}
+	},
+	"father": {
+		"name": "padre",
+		"gender": "male",
+		"mother": {
+			"name": "abuela paterna",
+			"gender": "female",
+			"mother": {
+				"name": "visabuela de abuela paterna",
+				"gender": "female",
+				"mother": null,
+				"father": null
+			},
+			"father": {
+				"name": "visabuelo de abuela paterna",
+				"gender": "male",
+				"mother": null,
+				"father": null
+			}
+		},
+		"father": {
+			"name": "abuelo paterno",
+			"gender": "male",
+			"mother": {
+				"name": "visabuela de abuelo paterno",
+				"gender": "female",
+				"mother": null,
+				"father": null
+			},
+			"father": {
+				"name": "visabuelo de abuelo paterno",
+				"gender": "male",
+				"mother": null,
+				"father": null
+			}
+		}
+	}
+}

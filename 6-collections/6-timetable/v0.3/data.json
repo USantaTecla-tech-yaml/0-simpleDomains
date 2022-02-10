@@ -1,0 +1,261 @@
+{ 
+  "title": "Horario escola",
+  "course" : 1,
+  "level" : "Primaria",
+  "group" : "1ºB",
+  "month" : "marzo",
+  "year" : "2019",
+  "times" : [
+    {
+     "time id" : "K1",
+     "time Format" : "A.M.",
+     "beginning" : "7:25",
+     "finish" : "7:35"
+    },
+    {
+     "time id" : "K2",
+     "time Format" : "A.M.",
+     "beginning" : "7:35",
+     "finish" : "8:10"
+    },
+    {
+     "time id" : "K3",
+     "time Format" : "A.M.",
+     "beginning" : "8:10",
+     "finish" : "8:45"
+    },
+    {
+     "time id" : "K4",
+     "time Format" : "A.M.",
+     "beginning" : "8:45",
+     "finish" : "9:20"
+    },
+    {
+     "time id" : "K5",
+     "time Format" : "A.M.",
+     "beginning" : "9:20",
+     "finish" : "9:55"
+    },
+    {
+     "time id" : "K6",
+     "time Format" : "A.M.",
+     "beginning" : "9:55",
+     "finish" : "10:30"
+    },
+    {
+     "time id" : "K7",
+     "time Format" : "A.M.",
+     "beginning" : "10:30",
+     "finish" : "10:50"
+    },
+    {
+     "time id" : "K8",
+     "time Format" : "A.M.",
+     "beginning" : "10:50",
+     "finish" : "11:25"
+    },
+    {
+     "time id" : "K9",
+     "time Format" : "A.M.",
+     "beginning" : "11:25",
+     "finish" : "12:00"
+    }
+  ]
+  },  
+  {
+  "weekdays" : [
+    {
+    "week day" : "Lunes",
+    "activity id" : "K1",
+    "name" : "Actividades Permanentes",
+    "activity" : "Comunicación" [
+      "reference" : [
+        {
+        "from idref" : "k2",
+        "to idref" : "k3"
+        }
+      ]
+    ]
+    },
+    {
+      "activity" : [
+        {
+        "id" : "K4",
+        "name" : "Razonamiento verbal"
+        },
+        {
+          "id" : "K5",
+          "name" : "Matemática"
+        },
+        {
+          "id" : "K7",
+          "name" : "Recreo"
+        },
+        {
+          "id" : "K6",
+          "name" : "Matemática"
+        },
+        {
+          "id" : "K8",
+          "name" : "personal social"
+        }
+        {
+          "id" : "K9",
+          "name" : "Tutoria"
+        }
+      ]
+    }
+  ]
+  "weekdays" : [
+    {
+    "week day" : "Martes",
+    "activity id" : "K1",
+    "name" : "Actividades Permanentes",
+    "activity" : "Matemática" [
+      "reference" : [
+        {
+        "from idref" : "k2",
+        "to idref" : "k3"
+        }
+      ]
+    ]
+    },
+    {
+      "activity" : [
+        {
+        "name" : "Educación fisica"
+        },
+        { 
+       "reference" : [
+          {
+          "from idref" : "k4",
+          "to idref" : "k5"
+          }
+        {
+          "activity id" : "K6",
+          "name" : "Recreo"
+        },
+        {
+          "id" : "K7",
+          "name" : "Recreo"
+        },
+        {
+          "id" : "K6",
+          "name" : "Matemática"
+        },
+        {
+          "id" : "K8",
+          "name" : "personal social"
+        }
+        {
+          "id" : "K9",
+          "name" : "Tutoria"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+<title course="1" level="Primaria" month="marzo" year="2019">Horario escolar</title>   
+<times>
+  <time id="K1" timeFormat="A.M." beginning="7:25" finish="7:35"></time>
+  <time id="K2" timeFormat="A.M." beginning="7:35" finish="8:10"></time>
+  <time id="K3" timeFormat="A.M." beginning="8:10" finish="8:45"></time>
+  <time id="K4" timeFormat="A.M." beginning="8:45" finish="9:20"></time>
+  <time id="K5" timeFormat="A.M." beginning="9:20" finish="9:55"></time>
+  <time id="K6" timeFormat="A.M." beginning="9:55" finish="10:30"></time>
+  <time id="K7" timeFormat="A.M." beginning="10:30" finish="10:50"></time>
+  <time id="K8" timeFormat="A.M." beginning="10:50" finish="11:25"></time>
+  <time id="K9" timeFormat="A.M." beginning="11:25" finish="12:00"></time>
+</times>   
+<weekdays>
+  <weekday>Lunes</weekday>
+     <activity idref="K1">Actividades Permanentes</activity>
+     <activity>Comunicación</activity>
+     <reference>
+       <from idref="k2"/>
+       <to idref="k3"/>
+     </reference>
+     <activity idref="K4">Razonamiento verbal</activity>
+     <activity idref="K5">Matemática</activity>
+     <activity idref="K7">Recreo</activity>
+     <activity idref="K6">Matemática</activity>
+     <activity idref="K8">personal social</activity>
+     <activity idref="K9">Tutoria</activity>
+  <weekday>Martes</weekday>
+     <activity idref="K1">Actividades Permanentes</activity>
+     <activity>Matemática</activity>
+     <reference>
+       <from idref="k2"/>
+       <to idref="k3"/>
+     </reference>
+     <activity>Educación fisica</activity>
+     <reference>
+       <from idref="k4"/>
+       <to idref="k5"/>
+     </reference>
+     <activity idref="K6">Recreo</activity>
+     <activity>Inglés</activity>
+     <reference>
+       <from idref="k7"/>
+       <to idref="k8"/>
+     </reference>
+     <activity idref="K9">Personal social</activity>
+  <weekday>Miercoles</weekday>
+     <activity idref="K1">Actividades Permanentes</activity>
+     <activity idref="K2">Arte y Cultura</activity>
+     <activity idref="K3">Comunicación</activity>
+     <activity>Matemática</activity>
+     <reference>
+       <from idref="k4"/>
+       <to idref="k5"/>
+     </reference>
+     <activity idref="K6">Recreo</activity>
+     <activity idref="K7">Educación por el trabajo</activity>
+     <activity>Ciencia y Tecnología</activity>
+     <reference>
+       <from idref="k8"/>
+       <to idref="k9"/>
+     </reference>
+  <weekday>Jueves</weekday>
+     <activity idref="K1">Actividades Permanentes</activity>
+     <activity>Matemática</activity>
+     <reference>
+       <from idref="k2"/>
+       <to idref="k3"/>
+     </reference>
+     <activity>Comunicación</activity>
+     <reference>
+       <from idref="k4"/>
+       <to idref="k5"/>
+     </reference>
+     <activity idref="K5">Comunicación</activity>
+     <activity idref="K6">Recreo</activity>
+     <activity idref="K7">Ciencia y Tecnología</activity>
+     <activity idref="K8">Plan lector</activity>
+     <activity idref="K9">Arte y Cultura</activity>
+  <weekday>Viernes</weekday>
+     <activity idref="K1">Actividades Permanentes</activity>
+     <activity>Comunicación</activity>
+     <reference>
+       <from idref="k2"/>
+       <to idref="k3"/>
+     </reference>
+     <activity>Razonamiento matemático</activity>
+     <reference>
+       <from idref="k4"/>
+       <to idref="k5"/>
+     </reference>
+     <activity idref="K6">Recreo</activity>
+     <activity idref="K7">Razonamiento verbal</activity>
+     <activity idref="K8">Educación por el trabajo</activity>
+     <activity idref="K9">Religión</activity>
+</weekdays>  
+</table>

@@ -1,0 +1,115 @@
+{
+	"personalData": {
+		"name": "Michelle",
+		"surname": "Torres Quiroz",
+		"birthday": {
+			"day": 23,
+			"month": 12,
+			"year": 1999
+		},
+		"adress": {
+			"street": "Av. Siempreviva, nº17",
+			"village": "Col. Anzures. 04575",
+			"country": "Mexico"
+		},
+		"telephone": "55344595",
+		"e_mail": "curriculum@gmail.com"
+	},
+	"profile": "Tengo un carácter de mujer emprendedora, porque en los negocios o actividades laborales, suelo ser muy dinámica, responsable, puntual, puedo llevar la responsabilidad de un equipo de personas, visionaria, y sobre todo motivadora, etc.",
+	"studies": [
+		{
+			"degree start": 2001,
+			"end": 2005,
+			"title": "Ciencias de la Comunicación",
+			"faculty": "Ciencias de la Comunicación",
+			"university": "Autónoma de México"
+		},
+		{
+			"degree start": 1996,
+			"end": 2000,
+			"title": "Derecho",
+			"faculty": "Derecho",
+			"university": "Autónoma de México"
+		},
+		{
+			"degree start": 1996,
+			"end": 2000,
+			"title": "Derecho",
+			"faculty": "Derecho",
+			"university": "Autónoma de México"
+		}
+	],
+	"works": [
+		{
+			"start" : 2000,
+			"end" : 2011,
+			"charge" : "Asesor Jurídico",
+			"company" : "Revista México"
+		},
+		{
+			"start" : 2000,
+			"end" : 2011,
+			"charge" : "Creadora publicitaria y editora de revista y periódico"
+		},
+		{
+			"start" : 2005,
+			"end" : 2011,
+			"charge" : "Redactora de Artículos para website",
+			"countries" : [
+				"España",
+				"Estados Unidos",
+				"Mexico"
+			]
+		}
+	],
+	"skills": [
+		{
+			"year" : 2008,
+			"description": "Adiministrativas y contable",
+			"mode" : "online",
+			"trainer" : "Constancia de la SEC"
+		},
+		{
+			"year" : 2008,
+			"description": "Adiministrativas y contable",
+			"mode" : "online",
+			"trainer" : "Constancia de la SEC"
+		},
+		{
+			"year" : 2008,
+			"description": "Adiministrativas y contable",
+			"mode" : "online",
+			"trainer" : "Constancia de la SEC"
+		},{
+			"year" : 2008,
+			"description": "Adiministrativas y contable",
+			"mode" : "online",
+			"trainer" : "Constancia de la SEC"
+		},{
+			"year" : 2008,
+			"description": "Adiministrativas y contable",
+			"mode" : "online",
+			"trainer" : "Constancia de la SEC"
+		},
+		[
+			"Windows office 2007",
+			"Excel",
+			"Word",
+			"Publisher"
+		],
+		[
+			"Adobe",
+			"Corel Draw",
+			"Photodeluxe"
+		],
+		[
+			"Equipo de Cómputo",
+			"Impresoras",
+			"Copiadoras"
+		],
+		{
+			"grade" : "90%",
+			"description": "Inglés"
+		}
+	]
+}

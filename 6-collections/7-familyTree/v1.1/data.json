@@ -1,0 +1,228 @@
+{
+	"persons": [
+		{
+			"id": "K1",
+			"name": "Gabriel Aragón Fernández",
+			"nickname": "Pepino",
+			"yearBirth": 1830,
+			"yearDeath": 1915
+		},
+		{
+			"id": "K2",
+			"name": "Virginia Foureaux",
+			"nickname": "Pepino",
+			"yearBirth": 1850,
+			"yearDeath": 1930
+		},
+		{
+			"id": "K3",
+			"name": "Arturo Aragón Foureaux",
+			"nickname": "Tonino"
+		},
+		{
+			"id": "K4",
+			"name": "José María Aragón Foureaux",
+			"nickname": "Pompoff",
+			"yearBirth": 1887,
+			"yearDeath": 1970
+		},
+		{
+			"id": "K41",
+			"name": "Víctor Aragón Hipkins",
+			"yearBirth": 1933,
+			"yearDeath": 1989
+		},
+		{
+			"id": "K42",
+			"name": "José Aragón Hipkins",
+			"nickname": "Nabuco",
+			"yearBirth": 1830,
+			"yearDeath": 1915
+		},
+		{
+			"id": "K5",
+			"name": "Teodoro Aragón Foureaux",
+			"nickname": "Nabuco",
+			"yearBirth": 1885,
+			"yearDeath": 1974
+		},
+		{
+			"id": "K51",
+			"name": "Emilio Aragón Domínguez",
+			"nickname": "Zampabollos ",
+			"yearBirth": 1913,
+			"yearDeath": 1985
+		},
+		{
+			"id": "K6",
+			"name": "Emilio Aragón Foureaux",
+			"nickname": "Emig",
+			"yearBirth": 1881,
+			"yearDeath": 1946
+		},
+		{
+			"id": "K61",
+			"name": "Gabriel Aragón Bermúdez",
+			"nickname": "Gaby",
+			"yearBirth": 1920,
+			"yearDeath": 1995
+		},
+		{
+			"id": "K62",
+			"name": "Alfonso Aragón Bermúdez",
+			"nickname": "Fofó",
+			"yearBirth": 1923,
+			"yearDeath": 1976
+		},
+		{
+			"id": "K63",
+			"name": "Rocío Aragón Bermúdez",
+			"nickname": "Pepino",
+			"yearBirth": 1925,
+			"yearDeath": 2018
+		},
+		{
+			"id": "K64",
+			"name": "Emilio Aragón Bermúdez",
+			"nickname": "Miliki",
+			"yearBirth": 1929,
+			"yearDeath": 2012
+		},
+		{
+			"id": "K611",
+			"name": "Lara",
+			"nickname": "Los Gabytos",
+			"yearBirth": 1971
+		},
+		{
+			"id": "K612",
+			"name": "Gabri",
+			"nickname": "Los Gabytos",
+			"yearBirth": 1972
+		},
+		{
+			"id": "K613",
+			"name": "Rodrigo",
+			"nickname": "Los Gabytos",
+			"yearBirth": 1975
+		},
+		{
+			"id": "K614",
+			"name": "Gon",
+			"nickname": "Los Gabytos",
+			"yearBirth": 1981
+		},
+		{
+			"id": "K615",
+			"name": "Bebé",
+			"nickname": "Los Gabytos",
+			"yearBirth": 1985
+		},
+		{
+			"id": "K621",
+			"name": "Alfonso Aragón Sac",
+			"nickname": "Fofito",
+			"yearBirth": 1949
+		},
+		{
+			"id": "K622",
+			"name": "Rodolfo Aragón Sac",
+			"nickname": "Rody",
+			"yearBirth": 1958
+		},
+		{
+			"id": "K641",
+			"name": "Rita Irasema Aragón Álvarez",
+			"nickname": " ",
+			"yearBirth": 1954
+		},
+		{
+			"id": "K642",
+			"name": "Emilio Aragón Álvarez",
+			"nickname": "Milikito",
+			"yearBirth": 1959
+		},
+		{
+			"id": "K6211",
+			"name": "Mónica Aragón Fernández-Cuervo",
+			"nickname": " ",
+			"yearBirth": 1973
+		},
+		{
+			"id": "K6411",
+			"name": "Manuel Feijóo Aragón",
+			"nickname": "Pepino",
+			"yearBirth": 1977
+		}
+	],
+	"families": [
+		{
+			"dad": "K1",
+			"mother": "K2",
+			"childrens": [
+				"K3",
+				"K4",
+				"K5",
+				"K6"
+			] 
+		},
+		{
+			"dad": "K4",
+			"childrens": [
+				"K41",
+				"K41"
+			] 
+		},
+		{
+			"dad": "K5",
+			"childrens": [
+				"k51"
+			] 
+		},
+		{
+			"dad": "K6",
+			"childrens": [
+				"K61",
+				"K62",
+				"K63",
+				"K64"
+			] 
+		},
+		{
+			"dad": "K61",
+			"childrens": [
+				"K611",
+				"K612",
+				"K613",
+				"K614",
+				"K615"
+			] 
+		},
+		{
+			"dad": "K62",
+			"childrens": [
+				"K621",
+				"K622"
+			] 
+		},
+		{
+			"dad": "K64",
+			"childrens": [
+				"K641",
+				"K642"
+			] 
+		},
+		{
+			"dad": "K621",
+			"childrens": [
+				"K6211"
+			] 
+		},
+		{
+			"mother": "K461",
+			"childrens": [
+				"K6411"
+			] 
+		}
+	]
+}
