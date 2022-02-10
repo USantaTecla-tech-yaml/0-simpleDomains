@@ -1,0 +1,60 @@
+name: yo
+gender: male
+mother:
+  name: madre
+  gender: female
+  mother:
+    name: abuela materna
+    gender: female
+    mother:
+      name: visabuela de abuela materna
+      gender: female
+      mother:
+      father:
+    father:
+      name: visabuelo de abuela materna
+      gender: male
+      mother:
+      father:
+  father:
+    name: abuelo materno
+    gender: male
+    mother:
+      name: visabuela de abuelo materno
+      gender: female
+      mother:
+      father:
+    father:
+      name: visabuelo de abuelo materno
+      gender: male
+      mother:
+      father:
+father:
+  name: padre
+  gender: male
+  mother:
+    name: abuela paterna
+    gender: female
+    mother:
+      name: visabuela de abuela paterna
+      gender: female
+      mother:
+      father:
+    father:
+      name: visabuelo de abuela paterna
+      gender: male
+      mother:
+      father:
+  father:
+    name: abuelo paterno
+    gender: male
+    mother:
+      name: visabuela de abuelo paterno
+      gender: female
+      mother:
+      father:
+    father:
+      name: visabuelo de abuelo paterno
+      gender: male
+      mother:
+      father:

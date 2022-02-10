@@ -1,0 +1,53 @@
+persons:
+- id: 1
+  name: mama
+- id: 2
+  name: papa
+- id: 3
+  name: hermana la mayor
+- id: 4
+  name: hermana mayor
+- id: 5
+  name: hermano mayor
+- id: 6
+  name: hermana mediana
+- id: 7
+  name: hermano mediano
+- id: 8
+  name: hermana pequeña
+- id: 9
+  name: yo
+- id: 10
+  name: cuñado de hermana la mayor
+- id: 11
+  name: sobrino de hermana la mayor
+- id: 12
+  name: sobrina de hermana la mayor
+- id: 13
+  name: cuñado de hermana pequeña
+- id: 14
+  name: cuñada de hermano pequeño
+- id: 15
+  name: sobrino de hermano pequeño
+- id: 16
+  name: sobrina de hermano pequeño
+lineages:
+- mother: 1
+  pather: 2
+  childrens:
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+- mother: 3
+  pather: 10
+  childrens:
+  - 11
+- mother: 7
+  pather: 14
+  childrens:
+  - 15
+  - 16

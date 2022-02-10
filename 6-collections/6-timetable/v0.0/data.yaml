@@ -1,0 +1,107 @@
+course: Primaria
+group: 1ºB
+date: marzo 2019
+days:
+- name: Lunes
+  classes:
+  - start: '7:25'
+    name: Actividades Permanentes
+  - start: '7:35'
+    name: Comunicación
+  - start: '8:10'
+    name: Comunicación
+  - start: '8:45'
+    name: Razonamiento Verbal
+  - start: '9:20'
+    name: Matemática
+  - start: '9:55'
+    name: Recreo
+  - start: '10:30'
+    name: Matemática
+  - start: '10:50'
+    name: Personal Social
+  - start: '11:25'
+    name: Tutoría
+- name: Martes
+  classes:
+  - start: '7:25'
+    name: Actividades Permanentes
+  - start: '7:35'
+    name: Matemática
+  - start: '8:10'
+    name: Matemática
+  - start: '8:45'
+    name: Educación Fisica
+  - start: '9:20'
+    name: Educación Fisica
+  - start: '9:55'
+    name: Recreo
+  - start: '10:30'
+    name: Inglés
+  - start: '10:50'
+    name: Inglés
+  - start: '11:25'
+    name: Personal Social
+- name: Miercoles
+  classes:
+  - start: '7:25'
+    name: Actividades Permanentes
+  - start: '7:35'
+    name: Arte Y Cultura
+  - start: '8:10'
+    name: Comunicación
+  - start: '8:45'
+    name: Matemática
+  - start: '9:20'
+    name: Matemática
+  - start: '9:55'
+    name: Recreo
+  - start: '10:30'
+    name: Educación por el Trabajo
+  - start: '10:50'
+    name: Ciencia Y Tecnologia
+  - start: '11:25'
+    name: Ciencia Y Tecnologia
+- name: Jueves
+  classes:
+  - start: '7:25'
+    name: Actividades Permanentes
+  - start: '7:35'
+    name: Matemática
+  - start: '8:10'
+    name: Matemática
+  - start: '8:45'
+    name: Comunicación
+  - start: '9:20'
+    name: Comunicación
+  - start: '9:55'
+    name: Recreo
+  - start: '10:30'
+    name: Ciencia Y Tecnologia
+  - start: '10:50'
+    name: Plan Lector
+  - start: '11:25'
+    name: Arte Y Cultura
+- name: Viernes
+  classes:
+  - start: '7:25'
+    name: Actividades Permanentes
+  - start: '7:35'
+    name: Comunicación
+  - start: '8:10'
+    name: Comunicación
+  - start: '8:45'
+    name: Razonamiento Matemático
+  - start: '9:20'
+    name: Razonamiento Matemático
+  - start: '9:55'
+    name: Recreo
+  - start: '10:30'
+    name: Razonamiento Verbal
+  - start: '10:50'
+    name: Educación por el Trabajo
+  - start: '11:25'
+    name: Religión
+end: '12:00'
+
+
